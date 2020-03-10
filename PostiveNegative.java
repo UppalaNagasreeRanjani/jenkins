@@ -11,3 +11,4 @@ public class PostiveNegative {
 			System.out.println("negative");
 		}
 	}
+}
